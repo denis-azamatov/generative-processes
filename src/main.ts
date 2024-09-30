@@ -1,4 +1,4 @@
 import './style.css'
-import Grid from './Sketch-1.2'
+import Labrinth from './week-1/Sketch-3'
 
-new Grid().run();
+new Labrinth().run();

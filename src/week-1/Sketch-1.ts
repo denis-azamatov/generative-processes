@@ -1,5 +1,5 @@
 import p5 from "p5";
-import { BaseSketch } from "./BaseSketch";
+import { BaseSketch } from "../BaseSketch";
 
 export type WaveProps = {
     /** Amplitude of the wave in px. */
